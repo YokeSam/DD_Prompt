@@ -1,0 +1,6 @@
+c:\users\ys\documents\visual studio 2015\Projects\YS_DD_Prompt\YS_DD_Prompt\bin\Debug\YS_DD_Prompt.exe.config
+c:\users\ys\documents\visual studio 2015\Projects\YS_DD_Prompt\YS_DD_Prompt\bin\Debug\YS_DD_Prompt.exe
+c:\users\ys\documents\visual studio 2015\Projects\YS_DD_Prompt\YS_DD_Prompt\bin\Debug\YS_DD_Prompt.pdb
+c:\users\ys\documents\visual studio 2015\Projects\YS_DD_Prompt\YS_DD_Prompt\obj\Debug\YS_DD_Prompt.exe
+c:\users\ys\documents\visual studio 2015\Projects\YS_DD_Prompt\YS_DD_Prompt\obj\Debug\YS_DD_Prompt.pdb
+c:\users\ys\documents\visual studio 2015\Projects\YS_DD_Prompt\YS_DD_Prompt\obj\Debug\YS_DD_Prompt.csprojResolveAssemblyReference.cache
