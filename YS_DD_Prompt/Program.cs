@@ -1,4 +1,4 @@
-﻿// Arthur : Yoke Sam Chin
+﻿// Authur : Yoke Sam Chin
 // Date: 09/22/2018
 // Description : 
 //              Given a string as input, write a program which parses the string and prints it out as a horizontal tree. If the string input is invalid, your program should print, "Invalid!" and exit.
@@ -36,14 +36,14 @@ namespace YS_DD_Prompt
                 return;
             }
             
-            Console.WriteLine(len_inp_str);
+           // Console.WriteLine(len_inp_str);
            
             for (int i = 0; i < len_inp_str; i++)
             {
                 inp_str +=  args[i];
             }
 
-            Console.WriteLine(inp_str);
+            //Console.WriteLine(inp_str);
 
             if (inp_str[0] != '[' || (inp_str.Count(e => e == '[') != inp_str.Count(f => f == ']')))
             {
@@ -53,7 +53,7 @@ namespace YS_DD_Prompt
 
             string[] arr_inp_str = inp_str.Split(',');
 
-            Console.WriteLine(arr_inp_str.Length);
+           // Console.WriteLine(arr_inp_str.Length);
 
             for (int i = 0; i < arr_inp_str.Length; i++)
             {
